@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-Live Site URL: []()
+Live Site URL: [Frontend Mentor - Product preview card component](https://reddfoxie.github.io/FEM-Challenge_Product-preview-card/)
 
 ### Useful resources
 
